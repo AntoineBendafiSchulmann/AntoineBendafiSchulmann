@@ -1,4 +1,38 @@
-### Hi there 👋
+#  Hi Everyone 👋
+
+
+## My Name is Antoine Bendafi-Schulmann :+1:
+
+
+
+## Im a student at IIM in Web Development :orange_book:
+
+### My Email adress antoine.bendafi-schulmann@edu.devinci.fr :email:
+
+![GitHub Logo](/img/emoji.png)
+
+# Im learning:
+
+## :heart: HTML
+
+## :blue_heart: CSS
+
+## :star: JavaScript
+
+## :green_heart: Python
+
+## :purple_heart: PHP
+
+
+## I hope to master technologies like Frameworks :triumph:
+
+## See You :fire: :fire: 
+
+
+
+
+
+
 
 <!--
 **AntoineBendafiSchulmann/AntoineBendafiSchulmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
