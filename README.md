@@ -9,7 +9,7 @@
 
 ### My Email adress antoine.bendafi-schulmann@edu.devinci.fr :email:
 
-![GitHub Logo](/img/emoji.png)
+![GitHub Logo](/img/keybordd.gif)
 
 # Im learning:
 
