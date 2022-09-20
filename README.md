@@ -44,7 +44,6 @@
 <br>
 
 <p float="left">
-&emsp;
 <img align="center" style="margin-left: 70px" src="https://i.pinimg.com/originals/32/5c/e5/325ce54d8e407ef4c2632004d2b77b26.gif" height="200px"/>
 
 
