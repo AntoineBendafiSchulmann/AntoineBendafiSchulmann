@@ -31,13 +31,32 @@
 <!-- space -->
 <br>
 
+## 📊 Statistiques Github
 
-  <a href="https://github.com/AntoineBendafiSchulmann">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntoineBendafiSchulmann&hide=ASP.NET,jupyter%20notebook&theme=dark&hide_langs_below=1" height="220px"/>
-  </a>
-  <a href="https://github.com/AntoineBendafiSchulmann">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AntoineBendafiSchulmann&count_private=true&hide=stars&show_icons=true&theme=dark&line_height=27" alt="AntoineBendafiSchulmann's github stats" height="220px" />
-  </a>
+
+<details> 
+  <summary><b>💻 Statistiques compte GitHub </b></summary>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/AntoineBendafiSchulmann"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AntoineBendafiSchulmann&show_icons=true&locale=en&theme=algolia" alt="candida18" height="192px"/></a>
+	</p>
+	<p  align="center">
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AntoineBendafiSchulmann&show_icons=true&locale=en&layout=compact&theme=algolia" alt="AntoineBendafiSchulmann" height="192px"/>
+	</p>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  </p>
+</details>
+
+<details>
+  <summary><b>⚡ Activité récente Github</b></summary>
+  <br/>
+   <a href="https://github.com/AntoineBendafiSchulmann"><img alt="AntoineBendafiSchulmann's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AntoineBendafiSchulmann&custom_title=Antoine BendafiSchulmann's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
+
+</details>
+
+<br/>
 
 <br>
 <!-- space -->
