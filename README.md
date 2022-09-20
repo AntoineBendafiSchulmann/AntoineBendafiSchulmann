@@ -43,7 +43,13 @@
 <!-- space -->
 <br>
 
+<img align="center" style="margin-left: 60px" src="http://images3.wikia.nocookie.net/__cb20110613233335/shipoffools/images/3/3e/Luffy.gif" height="220px"/>
+
 <img align="center" style="margin-left: 50px" src="https://i.pinimg.com/originals/32/5c/e5/325ce54d8e407ef4c2632004d2b77b26.gif" height="220px"/>
+
+
+<img align="center" style="margin-left: 50px" src="https://i.pinimg.com/originals/ca/d7/40/cad7401aaaf15e234a0461e02b51f74c.gif" height="220px"/>
+
 
 
 <br>
