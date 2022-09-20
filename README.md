@@ -2,13 +2,13 @@
 
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/antoinebendafi-schulmann/">
+  <a href="https://www.linkedin.com/in/antoinebendafi-schulmann/" target="_blank">
    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>
     </a><span>&nbsp;</span>
   <a href="mailto:bendafischulmann@gmail.com.com">
     <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
   </a><span>&nbsp;</span>
-  <a href="https://github.com/AntoineBendafiSchulmann">
+  <a href="https://github.com/AntoineBendafiSchulmann" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/github.png" width="3.5%"/>
   </a><span>&nbsp;</span>
 </p>
@@ -53,6 +53,95 @@
 <img align="center" style="margin-left: 30px" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7667493a-a476-4df2-b3d3-b440aa01509a/dcd5839-c0ee4810-2240-4858-b434-3e69ce67e40a.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sIm9iaiI6W1t7InBhdGgiOiIvZi83NjY3NDkzYS1hNDc2LTRkZjItYjNkMy1iNDQwYWEwMTUwOWEvZGNkNTgzOS1jMGVlNDgxMC0yMjQwLTQ4NTgtYjQzNC0zZTY5Y2U2N2U0MGEuZ2lmIn1dXX0.Wfq9s7BlCzmcl-zE0vfmMMWkpEOZHHzXyW3jhEGXJFQ" height="150px"/>
 
 </p>
+
+
+<br>
+<!-- space -->
+<br>
+
+
+## 🛠️ Mes Compétences
+
+
+#### 👉 Languages de programmations
+
+<p align="left"> 
+&emsp; 
+  <a href="#" target="_blank"> 
+     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
+   </a>
+  &emsp;
+   <a href="#" target="_blank">
+    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
+  </a>
+  &emsp;
+  <a href="#">
+    <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"/>
+  </a>
+&emsp; 
+ <a href="#">
+    <img alt="C#" src="https://img.shields.io/badge/ .Net-%2314354C.svg?logo=dotnet&logoColor=white"/>
+  </a>
+&emsp; 
+</p>
+
+#### 👉 Développement Front-End
+
+<p align="left"> 
+  &emsp; 
+  <a href="#" target="_blank"> 
+   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
+  </a>   
+  &emsp;
+  <a href="#" target="_blank">
+    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
+  </a> 
+   &emsp;
+  <a href="#" target="_blank"> 
+    <img alt="tailwind" src="https://img.shields.io/badge/Tailwind-%23563D7C.svg?style=flat&logo=tailwindcss&logoColor=white"/>
+  </a>
+&emsp;
+  <a href="#" target="_blank"> 
+    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
+  </a>
+&emsp;
+<a href="#" target="_blank">
+    <img alt="CSS" src="https://img.shields.io/badge/Blazor%20-%231572B6.svg?logo=blazor&logoColor=white">
+  </a> 
+   &emsp;
+   
+</p>
+
+
+#### 👉 Développement Back-End
+
+<p align="left"> 
+  &emsp;
+  <a href="#">
+    <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"/>
+  </a>
+&emsp; 
+ <a href="#">
+    <img alt="C#" src="https://img.shields.io/badge/ .Net-%2314354C.svg?logo=dotnet&logoColor=white"/>
+  </a>
+  &emsp; 
+
+ <a href="#">
+    <img alt="C#" src="https://img.shields.io/badge/ Symfony-%2314354C.svg?logo=symfony&logoColor=white"/>
+  </a>
+&emsp; 
+<a href="#" target="_blank">
+    <img alt="CSS" src="https://img.shields.io/badge/Blazor%20-%231572B6.svg?logo=blazor&logoColor=white">
+  </a> 
+&emsp;
+<a href="#" target="_blank">
+    <img alt="CSS" src="https://img.shields.io/badge/Asp.Net core%20-%2314354C.svg?logo=dotnet&logoColor=white">
+  </a> 
+&emsp;
+
+   
+</p>
+
 
 
 <br>
