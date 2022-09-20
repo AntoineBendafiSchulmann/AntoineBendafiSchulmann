@@ -141,7 +141,7 @@
 
 </p>
 
-### 👉 Databases
+### 👉Gestion de Bases de données
 
 <p align="left">
   &emsp;
@@ -179,7 +179,7 @@
 &emsp; 
  </p>
 
- ### 👉 Software & Outils
+ ### 👉 Logiciels & Outils
 
 <p>
   &emsp;
