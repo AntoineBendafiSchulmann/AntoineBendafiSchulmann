@@ -139,8 +139,70 @@
   </a> 
 &emsp;
 
-   
 </p>
+
+### 👉 Databases
+
+<p align="left">
+  &emsp;
+    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white"></a>
+  &emsp;
+    <a href="https://www.sqlite.org/"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white"/></a>
+  &emsp;
+    <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&logo=github&logoColor=white"></a>
+  &emsp;
+</p>
+
+#### 👉 Design
+
+<p align="left">
+  &emsp;  
+   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> 
+    <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat&logo=adobe%20illustrator&logoColor=white"/>
+  </a> 
+  &emsp;
+  <a href="https://www.adobe.com/in/products/indesign.html" target="_blank"> 
+    <img alt="Adobe Indesign" src="https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=flat&logo=Adobe%20InDesign&logoColor=white"/> 
+  </a> 
+    &emsp;
+  <a href="https://www.adobe.com/in/products/premiere.html" target="_blank"> 
+   <img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=flate&logo=Adobe%20Premiere%20Pro&logoColor=white"/>
+  </a>
+    &emsp;
+  <a href="#">
+  	<img alt="Canva" src="https://img.shields.io/badge/Adobe Photoshop-%231572B6.svg?style=flat&logo=Adobe%20Photoshop&logoColor=white"/>
+  </a>
+&emsp;
+  <a href="#">
+  	<img alt="Canva" src="https://img.shields.io/badge/Figma-%231572.svg?style=flat&logo=figma&logoColor=white"/>
+  </a>
+&emsp; 
+ </p>
+
+ ### 👉 Software & Tools
+
+<p>
+  &emsp;
+    <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
+&emsp;
+    <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=flate&logo=markdown&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+  &emsp;
+     <a href="#"><img alt="Visual Studio 2022" src="https://img.shields.io/badge/Visual%20Studio -007.svg?logo=visual-studio&logoColor=white"></a>
+  &emsp;
+       <a href="#"><img alt="php storm" src="https://img.shields.io/badge/PhpStorm-%23563D7C.svg?logo=phpstorm&logoColor=white"></a>
+  &emsp;
+
+</p>
+
+<br/>
+
+
 
 
 
