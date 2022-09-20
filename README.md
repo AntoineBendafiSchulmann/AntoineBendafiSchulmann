@@ -51,7 +51,7 @@
 <details>
   <summary><b>⚡ Activité récente Github</b></summary>
   <br/>
-   <a href="https://github.com/AntoineBendafiSchulmann"><img alt="AntoineBendafiSchulmann's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AntoineBendafiSchulmann&custom_title=Antoine BendafiSchulmann's%20Contribution%20Graph&theme=react-dark" /></a>
+    <a href="https://github.com/Candida18"><img alt="activité d'antoine" src="https://activity-graph.herokuapp.com/graph?username=candida18&custom_title=Antoine%20BendafiSchulmann's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 </details>
