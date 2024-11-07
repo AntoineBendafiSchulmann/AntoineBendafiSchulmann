@@ -44,7 +44,7 @@
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AntoineBendafiSchulmann&show_icons=true&locale=en&layout=compact&theme=algolia" alt="AntoineBendafiSchulmann" height="192px"/>
 	</p>
   <br/>
-  <b>Note:</b> Les principaux langages affichés ci-dessus ne sont qu'une mesure des lignes dans  mes répos publics et ne reflètent pas l'expérience ou le niveau de compétence.
+  <b>Note:</b> Les principaux langages affichés ci-dessus ne sont qu'une mesure des lignes dans  mes répos PUBLICS et ne reflètent pas l'expérience ou le niveau de compétence.
   </p>
 </details>
 
