@@ -14,13 +14,20 @@ My journey is a perpetual quest for knowledge, growth, and innovation. I continu
 
 #### Frontend
 - **HTML/CSS**  
-- **JavaScript**  
+- **JavaScript**
+- **Typescript**
+- **React**
+- **NextJS**
+- **Svelte**
+- **Vue**
+- **NuxtJS**
 - **TailwindCSS**  
 - **Bootstrap**  
 - **Blazor** (C#)
 
 #### Backend
-- **C#** (.NET, ASP.NET Core)  
+- **C#** (.NET, ASP.NET Core)
+- **NodeJS, NestJS**
 - **PHP** (Symfony, Laravel)  
 - **REST API**  
 
@@ -30,7 +37,7 @@ My journey is a perpetual quest for knowledge, growth, and innovation. I continu
 - **PostgreSQL**  
 - **MariaDB**  
 - **Docker**  
-- **Azure** / **AWS** / **Vercel** (selon les projets)
+- **Azure** / **AWS** / **Vercel** (depending on the project)
 
 ### ⚙️ Other Languages
 - **Python**  
@@ -54,7 +61,7 @@ If you want to exchange, collaborate, or simply discuss, you can contact me with
 - **LinkedIn**: [Antoine Bendafi-Schulmann](https://www.linkedin.com/in/antoinebendafi-schulmann)
 - **GitHub**: [AntoineBendafiSchulmann](https://github.com/AntoineBendafiSchulmann)
 
-Je suis toujours ouvert à de nouvelles opportunités et à la discussion, alors n'hésitez pas à prendre contact !
+I am always open to new opportunities and discussion, so feel free to get in touch!
 
 ---
 
