@@ -9,6 +9,7 @@ My journey is a perpetual quest for knowledge, growth, and innovation. I continu
 
 ### 👨‍💻 Most Used Programming Language 
 - **JavaScript**
+- **Python**
 
 ### 🧰 Frameworks, Languages, and Libraries
 
